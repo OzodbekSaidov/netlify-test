@@ -1,4 +1,4 @@
-import Sushizen from "../Files/Sushizen.mjs";
+import Sushizen from "../Files/SushiZen.mjs";
 import express from "express";
 
 const router = express.Router();
